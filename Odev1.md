@@ -2,9 +2,12 @@
 
 
 Sınıf	  Öğrenci İsmi	    Numara
-10-E	  Fırat İnan	          442
-10-E	  Furkan Demirci	  453
-10-E	  Talha Dönderici	  401
+
+10-E	  Fırat İnan	       442
+
+10-E	  Furkan Demirci	   453
+
+10-E	  Talha Dönderici	   401
 
 
 Breaking Spaghetti
